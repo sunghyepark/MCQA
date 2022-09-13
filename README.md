@@ -38,4 +38,11 @@ If you want to know more about "run.py", put this command `python3 run.py help'
 
 ## Reference
 If you use out mapping algorithm for your research, we would be thankful if you referred to it by citing the following publication
-
+```
+{
+  title={MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device},
+  author={Park, Sunghye and Kim, Dohun and Sim, Jae-Yoon and Kang, Seokhyeong},
+  booktitle={Proceedings of the 41th IEEE/ACM International Conference on Computer-Aided Design},
+  year={2022}
+}
+```
